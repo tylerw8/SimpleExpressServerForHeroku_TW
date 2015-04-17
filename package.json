@@ -1,19 +1,18 @@
 {
-  "name": "SimpleExpressServerForHeroku",
+  "name": "Tyler Waite HTML5 300 Project",
   "version": "0.1.0",
-  "description": "A simple server based on Node.js and Express for deployment on Heroku",
+  "description": "Idea Mapper",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidand36/SimpleExpressServerForHeroku.git"
+    "url": "https://github.com/tylerw8/SimpleExpressServerForHeroku_TW"
   },
   "keywords": [
-    "express",
-    "static",
-    "heroku"
+    "knowledge visualization",
+    "mind map",
   ],
   "author": "David M. Anderson",
   "license": "GPL 3.0",
